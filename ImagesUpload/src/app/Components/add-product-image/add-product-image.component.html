@@ -1,0 +1,13 @@
+<form [formGroup]="form">
+<input type="text" formControlName="name" placeholder="Name">
+<br/>
+<input type="number" formControlName="quantity">
+<br/>
+
+<input type="file" (change)="uploadImage($event)"/>
+<br/>
+
+<button  (click)="addproduct($event)"> Submit</button>
+</form>
+<br/>
+<img [src]="imageUrl" alt="">

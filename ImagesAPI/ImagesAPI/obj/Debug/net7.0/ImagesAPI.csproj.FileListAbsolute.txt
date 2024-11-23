@@ -1,0 +1,66 @@
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.exe
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.deps.json
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.runtimeconfig.json
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.pdb
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.csproj.AssemblyReference.cache
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.AssemblyInfoInputs.cache
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.AssemblyInfo.cs
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.csproj.CoreCompileInputs.cache
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.ImagesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ImagesAPI.props
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ImagesAPI.props
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ImagesAPI.props
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\scopedcss\bundle\ImagesAPI.styles.css
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.csproj.Up2Date
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\refint\ImagesAPI.dll
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.pdb
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.genruntimeconfig.cache
+C:\Users\compu_tech\source\repos\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ref\ImagesAPI.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\appsettings.json
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.exe
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.deps.json
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.runtimeconfig.json
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\ImagesAPI.pdb
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.csproj.AssemblyReference.cache
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.AssemblyInfoInputs.cache
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.AssemblyInfo.cs
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.csproj.CoreCompileInputs.cache
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.ImagesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ImagesAPI.props
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ImagesAPI.props
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ImagesAPI.props
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\scopedcss\bundle\ImagesAPI.styles.css
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.csproj.Up2Date
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\refint\ImagesAPI.dll
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.pdb
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ImagesAPI.genruntimeconfig.cache
+E:\New folder\ImageUpload\ImagesAPI\ImagesAPI\obj\Debug\net7.0\ref\ImagesAPI.dll
